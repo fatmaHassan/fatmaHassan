@@ -5,6 +5,21 @@
 🎓 B.Sc. Computer Science & Information Systems  
 📜 ISTQB Foundation Level Certified
 
+![ISTQB](https://img.shields.io/badge/ISTQB-Foundation_Level-blue)
+![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-Testing-success)
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+
 ---
 
 ## 🧪 Quality Assurance
