@@ -22,22 +22,19 @@
 
 ---
 
-🚀 Projects
+## 🚀 Projects
 🍽️ Recipe App (Full-Stack Mobile Application)
 
 Developed a mobile app connected to a Laravel REST API
-
 Integrated PostgreSQL database (Supabase)
-
 Deployed backend on Render (cloud hosting)
-
 Implemented CRUD operations and API error handling
-
 Tested API endpoints using Postman
 
-🔗 GitHub: https://github.com/fatmaHassan/Recipes
-🌐 Live Demo: https://recipes-gifa.onrender.com
-Note: The backend is hosted on Render (free tier), so the first request may take a few seconds due to cold start.
+- 🔗 GitHub: https://github.com/fatmaHassan/Recipes
+- 🌐 Live Demo: https://recipes-gifa.onrender.com
+- Note: The backend is hosted on Render (free tier), so the first request may take a few seconds due to cold start.
+  
 ---
 
 ## 🧪 Quality Assurance
